@@ -2,7 +2,6 @@ const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
 const compression = require("compression");
-import { useIndexedDb } from "./indexedDb";
 
 const PORT = 3000;
 
