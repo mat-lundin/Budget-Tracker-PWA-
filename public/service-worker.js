@@ -3,7 +3,8 @@ const FILES_TO_CACHE = [
     "/index.html",
     "/index.js",
     "/styles.css",
-    "/manifest.json"
+    "/manifest.json",
+    "/db.js"
   ];
   
   
